@@ -1,3 +1,9 @@
+---
+title: La disputa de redes
+slug: la-disputa-de-redes
+abstract: Cómo el desarrollo tecnológico interactúa con las jerarquías y genera la historia de los sistemas económicos.
+---
+
 # **La disputa de redes**
 
 En el capítulo anterior, presentamos el liderazgo.
