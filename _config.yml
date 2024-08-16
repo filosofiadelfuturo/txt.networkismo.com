@@ -1,11 +1,11 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
-title: Jekyll Chapterbook
-longtitle: Jekyll Chapterbook Theme
-author: Jason Grimes
-email: jason@grimesit.com
+title: El paradigma de la red
+longtitle: El paradigma de la red
+author: Juan Zaragoza
+email: juan@filosofiadelfuturo.com
 description: >
-  A Jekyll theme based on GitBook with support for chapters and parts.
+  Colección de cuadernos de filosofía networkista.
 
 # If baseurl_canonical is set, 
 # a <link rel="canonical"> tag will be added to the head of each page,
