@@ -1,3 +1,8 @@
+---
+title: Colaboración y liderazgo
+slug: colaboracion-y-liderazgo
+abstract: El liderazgo permite la colaboración a gran escala y origina las jerarquías y la desigualdad económica.
+---
 # Capítulo 1: Colaboración y Liderazgo
 
 Desde que nació la civilización, los sistemas económicos tuvieron jerarquías y desigualdad.
