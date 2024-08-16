@@ -129,6 +129,8 @@ Durante todo ese año, en cada conversación, fui explicando los puntos centrale
 
 No puedo pensar en un tema político y analizarlo de otra manera. Es frecuente que alguno de mis amigos, o yo, escuchemos un análisis intelectual y concluyamos que sería más adecuado pensar el asunto tratado desde esta óptica, especialmente de aquellos análisis que sugieren quedarnos quietos, o abandonar la pretensión de comprender la gran historia, y entablar discusiones poco impactantes en la práctica en lugar de buscar una transformación radical de nuestra vida en sociedad. Estoy comprometido con estas ideas, creo que algo enriquecen, y te las quiero compartir.
 
+# Notas y referencias
+
 [^1]: En su libro *Del socialismo utópico al socialismo científico (1880)*, Engels argumentó que el marxismo se diferenciaba de posiciones utópicas porque se basaba en una comprensión científica de la historia y la sociedad. Por otra parte, la tesis XI sobre Feuerbach de Marx aclaraba que el objetivo último no era solamente comprender, sino transformar la realidad.
 
 [^2]: Los tres tipos de modelos fueron caracterizados por primera vez por Warren Weaver en su artículo “Science and Complexity” de 1948. Él habló, respectivamente, de problemas de simplicidad, problemas de complejidad desorganizada y problemas de complejidad organizada. Nuestro análisis habla de modelos en lugar de problemas porque es posible estudiar un tipo de problemas con modelos mejor adaptados a otro tipo de problemas. Los nombres “dualismo”, “gasismo” y “networkismo” fueron elegidos para resumir en forma gráfica las características de cada tipo de modelos.
