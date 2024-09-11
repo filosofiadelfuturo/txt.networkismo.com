@@ -58,7 +58,7 @@ bottom_nav:
 - label: Book
   url: /book.html
 - label: GitHub
-  url: https://github.com/filosofiadelfuturo/libros_networkismo/
+  url: https://github.com/filosofiadelfuturo/libros_networkismo
 - label: Privacy
   url: /privacy.html
 
@@ -84,7 +84,7 @@ sidebar_toc:
 # Show a link to edit each page on GitHub
 github_edit:
   enabled: true
-  base_url: https://github.com/filosofiadelfuturo/libros_networkismo/edit/master/
+  base_url: https://github.com/filosofiadelfuturo/txt.networkismo.com/edit/master/
 
 # Custom CSS
 extra_css:
