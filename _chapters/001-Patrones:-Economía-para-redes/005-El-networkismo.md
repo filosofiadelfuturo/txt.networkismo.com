@@ -1,3 +1,9 @@
+---
+title: El networkismo
+slug: el-networkismo
+abstract: Por qué la teoría del liderazgo es un mejor paradigma que la lucha de clases y la competencia perfecta.
+---
+
 # **Capítulo 4: El Networkismo**
 
 La sociedad es grande. 
