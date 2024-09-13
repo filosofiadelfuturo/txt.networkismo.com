@@ -10,7 +10,7 @@ Este sitio fue creado para reunir y disponibilizar el pensamiento networkista, i
 
 Cada obra aquí presentada se desarrolla en torno a un ámbito para el que consideramos que el networkismo ofrece aportes fundamentales. Los cuadernos a continuación son puntos de partida, y la decisión de compartirlos, incluso si contaran con imperfecciones, responde a un profundo interés por abrir la discusión y fomentar la circulación de estos conceptos.
 
-Esperamos que estas lecturas te motiven a comprender, discutir y construir el paradigma de la red.
+Esperamos que estas lecturas te motiven a comprender, discutir y construir el paradigma de la red. Los compartiremos aquí a medida que completemos su redacción.
 
 ## Plan de trabajo
 
