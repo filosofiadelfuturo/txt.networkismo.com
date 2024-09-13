@@ -24,6 +24,9 @@ copyright:
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path: assets/gitbook/images/favicon.ico
 
+# Google Analytics
+google_analytics: G-3XLP02NSCK
+
 #
 # Navigation menus
 #
