@@ -1,18 +1,11 @@
 ---
-title: Draft outline
-permalink: /outline
+title: Plan de trabajo
+permalink: /plan-de-trabajo
 layout: page
 ---
 
-An outline of the chapters planned for this book.
-Many of them have yet to be written.
-Only the chapters with a checkmark appear in the contents and navigation. 
+Este es un resumen de los libros previstos en torno al Networkismo. Muchos de ellos aún están por escribirse. 
+Sólo los capítulos con una marca de verificación aparecen en los contenidos y navegación.
 
 {% include chapterbook-toc.html show_drafts=true %}
 
-
----
-```
-This file is located at: {{ page.path }}
-```
----

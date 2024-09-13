@@ -18,7 +18,7 @@
     },
     "pluginsConfig": {
       "fontsettings": {
-        "family": "sans",
+        "family": "serif",
         "size": 2,
         "theme": "white"
       },
@@ -56,7 +56,7 @@
     },
     "variables": {},
     "title": "{{site.title}}",
-    "language": "en",
+    "language": "es",
     "gitbook": "*"
   },
   "file": {

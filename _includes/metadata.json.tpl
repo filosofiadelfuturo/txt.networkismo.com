@@ -58,7 +58,7 @@
         },
         "variables": {},
         "title": "{{site.title}}",
-        "language": "en",
+        "language": "es",
         "gitbook": "*"
     },
     "file": {

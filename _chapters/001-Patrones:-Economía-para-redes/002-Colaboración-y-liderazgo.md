@@ -432,7 +432,7 @@ En el próximo capítulo, aprovecharemos el modelo general que construimos sobre
 
 [^3]:  Adelantamos estos puntos en el capítulo 4
 
-[^4]:  {{ Incluso la escritura misma surgió … }}
+[^4]:  Incluso la escritura misma surgió … 
 
 [^5]:  Analizaremos la relación entre el paradigma marxista y los experimentos socialistas del siglo XX en el capítulo 4\.
 

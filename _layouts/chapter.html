@@ -21,7 +21,7 @@ layout: default
               <a href="{{ book_url }}">
             {% endunless %}
               {% if site.bookcrumbs.book_icon %}<img class="book-icon" src="{{site.baseurl}}/{{ site.bookcrumbs.book_icon }}">{% endif %}
-              Book
+              Libro
             {% unless book_url == page.url %}
               </a>
             {% endunless %}
@@ -34,7 +34,7 @@ layout: default
           {% if contents_url != page.url %}
             <a href="{{ contents_url }}">
           {% endif %}
-            Contents
+            Contenido
           {% if contents_url != page.url %}
             </a>
           {% endif %}
@@ -66,7 +66,7 @@ layout: default
 
           {% if page_chapter_num %}
             <li class="no-arrow">
-              Chapter {{ page_chapter_num }}.
+              Capítulo {{ page_chapter_num }}.
             </li>
           {% endif %}
 
@@ -106,7 +106,7 @@ layout: default
     {% if in_chapter_toc and in_chapter_toc != "" %}
       <div class="page-toc">
         <div class="page-toc-heading">
-          In this chapter:
+          Contenidos:
           {{ in_chapter_toc }}
         </div>
       </div>
@@ -138,7 +138,7 @@ layout: default
         </div>
         <div class="pager-labels">
           <div class="part">
-            Next:
+            Siguiente:
             {% if page_next_chapter_is_part_index %}
               Libro {{ page_next_part_num }}.
             {% else %}
@@ -146,7 +146,7 @@ layout: default
                 {{ page_next_part_label }}
                 {% if page_next_chapter_num %} &#8250;{% endif %}
               {% endif %}
-              {% if page_next_chapter_num %}Chapter {{ page_next_chapter_num }}.{% endif %}
+              {% if page_next_chapter_num %}Capítulo {{ page_next_chapter_num }}.{% endif %}
             {% endif %}
           </div>
           <div class="chapter-label">
@@ -173,7 +173,7 @@ layout: default
         </div>
         <div class="pager-labels">
           <div class="part">
-            Previous:
+            Anterior:
             {% if page_prev_chapter_is_part_index %}
               Libro {{ page_prev_part_num }}.
             {% else %}
@@ -181,7 +181,7 @@ layout: default
                 {{ page_prev_part_label }}
                 {% if page_prev_chapter_num %}&#8250;{% endif %}
               {% endif %}
-              {% if page_prev_chapter_num %}Chapter {{ page_prev_chapter_num }}.{% endif %}
+              {% if page_prev_chapter_num %}Capítulo {{ page_prev_chapter_num }}.{% endif %}
             {% endif %}
           </div>
           <div class="chapter-label">

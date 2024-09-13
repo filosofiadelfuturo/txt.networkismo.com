@@ -10,7 +10,7 @@ description: >
 # If baseurl_canonical is set, 
 # a <link rel="canonical"> tag will be added to the head of each page,
 # to disambiguate links for search engines.
-baseurl_canonical: https://github.com/filosofiadelfuturo/libros_networkismo/
+baseurl_canonical: https://txt.networkismo.com
 
 # A copyright notice will be shown at the bottom of each page,
 # with the current year and the author name.
@@ -48,18 +48,18 @@ sidebar_nav_top:
 # Links shown below the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_bottom:
-- label: Draft outline
-  url: /outline.html
-- label: Fork at GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook/fork
+- label: Plan de trabajo
+  url: /plan-de-trabajo
+- label: Licencias
+  url: /licencias
 
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
 bottom_nav:
-- label: Home
+- label: Inicio
   url: /index.html
-- label: Book
-  url: /book.html
+- label: Filosofía del futuro
+  url: https://filosofiadelfuturo.com
 - label: GitHub
   url: https://github.com/filosofiadelfuturo/libros_networkismo
 - label: Privacy
@@ -86,7 +86,7 @@ sidebar_toc:
 
 # Show a link to edit each page on GitHub
 github_edit:
-  enabled: true
+  enabled: false
   base_url: https://github.com/filosofiadelfuturo/txt.networkismo.com/edit/master/
 
 # Custom CSS
@@ -98,9 +98,6 @@ extra_css:
 # To make the drafts appear in the navigation in development environments,
 # set show_drafts_in_dev to true.
 show_drafts_in_dev: false
-
-
-
 
 
 exclude:
@@ -125,6 +122,8 @@ collections:
     output: true
     permalink: /:slug:output_ext
 
+sass:
+  sass_dir: _sass
 
 defaults:
   -

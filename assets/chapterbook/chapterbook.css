@@ -323,10 +323,12 @@ html {
 }
 
 .chapter-abstract {
-    background-color: #eee;
+    border-left: 4px solid #EBEBEB;
     padding: 10px;
     font-style: italic;
     margin-bottom: 20px;
+    font-size: 80%;
+    background: none;
 }
 
 .chapter-pager {
@@ -460,12 +462,20 @@ ul.toc-chapters-full.show-drafts {
 }
 .toc-chapters-full a {
     display: inline-block;
+    color: #666
 }
 .color-theme-1 .markdown-section .toc-chapters-full a {
     font-weight: normal;
 }
 .toc-chapters-full a:hover {
     text-decoration: none;
+}
+.toc-chapters-full .chapter-label {
+    font-family: var(--font-family-sans-serif);
+}
+
+.toc-chapters-full .part .chapter-label {
+    font-size: 90%;
 }
 .toc-chapters-full a:hover .chapter-label {
     text-decoration: underline;
@@ -475,8 +485,10 @@ ul.toc-chapters-full.show-drafts {
     margin-bottom: 5px;
 }
 .toc-chapters-full .part-label {
+    font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 5px;
+    font-family: var(--font-family-sans-serif);
 }
 .toc-chapters-full.show-drafts .part-label {
     margin-left: -20px;
@@ -486,6 +498,9 @@ ul.toc-chapters-full.show-drafts {
     line-height: 1.5;
     position: relative;
 }
+
+.toc-chapters-full > li.chapter {text-transform: uppercase;}
+
 .book .toc-chapters-full li.chapter a,
 .book .toc-chapters-full li.chapter a:hover {
     text-decoration: none;
@@ -505,11 +520,12 @@ ul.toc-chapters-full.show-drafts {
     left: -40px;
 }
 .toc-chapters-full .chapter-num {
-    opacity: 0.5;
+    opacity: 0.85;
 }
 .toc-chapters-full .abstract {
     color: #333;
     font-style: italic;
+    font-size: 85%;
 }
 .color-theme-1 .toc-chapters-full .abstract {
     color: inherit;
@@ -570,8 +586,10 @@ table.inspect-chapter-iterate-vars th.divider {
 
 .breadcrumb {
     /*padding: 0 .5rem;*/
+    font-family: var(--font-family-sans-serif);
     padding: 0;
     line-height: 2em;
+    font-size: 1.25rem;
 }
 
 .breadcrumb ul {
@@ -583,7 +601,7 @@ table.inspect-chapter-iterate-vars th.divider {
 }
 .breadcrumb li {
     margin-right: .75em;
-    color: #000;
+    color: #666;
 }
 .breadcrumb .book-icon {
     height: 16px;
