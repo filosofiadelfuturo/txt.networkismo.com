@@ -4,8 +4,6 @@ slug: el-mercado
 abstract: Cómo funciona el sistema económico actual.
 ---
 
-# **Capítulo 3: el mercado**
-
 En el primer capítulo, estudiamos el mecanismo que subyace a las jerarquías económicas. En el segundo capítulo, vimos qué pasa con las jerarquías cuando la tecnología se desarrolla. Ahora aplicaremos estos conceptos para entender la economía actual.
 
 Hasta ahora, hablamos de las jerarquías económicas en general, sin considerar conceptos concretos importantes para la economía actual. Por ejemplo, el mercado es un sistema de alineación de incentivos para la producción que funciona sin necesidad de un liderazgo central. En este capítulo, analizaremos el mercado y sus límites, veremos por qué surgen empresas lideradas en su interior, y estudiaremos el rol del sistema financiero, que permite alinear los incentivos de las personas para fundar nuevas empresas y aprovechar avances tecnológicos.
@@ -16,7 +14,7 @@ Después, analizaremos las tendencias futuras que la disputa de redes implica pa
 
 Además, veremos que tanto el mercado como mecanismo general de intercambio como el sistema financiero podrán desaparecer dado un punto crítico de desarrollo de la disputa de redes.
 
-# El mercado
+## El mercado
 
 El liderazgo promueve la colaboración porque alinea los incentivos de las personas para producir. Sin embargo, hay otras maneras de alinear incentivos además del liderazgo.
 
@@ -32,7 +30,7 @@ El mercado, como el liderazgo, es estable: a nadie le conviene dejar de creer en
 
 Si el mercado funcionara perfectamente, no concentraría el poder. En este capítulo estudiaremos el funcionamiento real del mercado, por qué surgen las empresas, y los efectos de la disputa de redes sobre la economía actual y futura.
 
-# La competencia perfecta
+## La competencia perfecta
 
 La economía *mainstream* parte del paradigma de la competencia perfecta y se desarrolla derivando conclusiones o discutiendo algunos supuestos de dicho paradigma. 
 
@@ -52,7 +50,7 @@ Desde el modelo de competencia perfecta, pertenecer a una empresa no aporta ning
 
 **En la competencia perfecta, organizarse en empresas no aporta un valor diferencial.**
 
-# La Inatención
+## La Inatención
 
 Los individuos no somos perfectamente racionales, ni procesamos la información perfectamente, ni conocemos el sistema de precios perfectamente.
 
@@ -78,7 +76,7 @@ La colaboración en empresas mejora la productividad per cápita, pero no está 
 
 **Las empresas son estructuras lideradas en contextos de mercado. Surgen porque no procesamos perfectamente la información, lo que nos lleva a colaborar con otras personas para interactuar con el mercado.**
 
-# El valor producido por la empresa
+## El valor producido por la empresa
 
 Como las empresas producen en un contexto de mercado, venden sus productos por dinero. Este dinero permite comprar cosas, y adquiere valor real en el contexto de mercado.
 
@@ -102,7 +100,7 @@ El reparto de dinero entre líderes y empleados sigue las reglas que vimos en el
 
 **El valor producido por una empresa es el valor producido exclusivamente por la organización, es decir, por el grupo de personas colaborando y dividiendo tareas. Este es el poder de compra del dinero generado en ventas, menos la amortización de las máquinas, el pago de alquileres, el pago de préstamos y dividendos, y de cualquier otro costo que no sea el trabajo organizado de personas. Esta suma equivale al dinero que tiene el líder para repartir entre sus empleados.**
 
-# La tecnología de la empresa
+## La tecnología de la empresa
 
 En el primer capítulo, definimos a la tecnología como el factor que determina una curva de productividad per cápita.
 
@@ -127,7 +125,7 @@ A medida que mejoran la capacidad de coordinar la producción y las máquinas di
 
 **La tecnología de la empresa incluye la decisión del producto a vender. Esto implica que distintas empresas pueden tener distintas curvas de productividad per cápita. Sin embargo, las mejoras en la maquinaria y la capacidad de coordinación generan una tendencia general a que las organizaciones crezcan y a la consecuente disputa de redes.**
 
-# El liderazgo en la empresa
+## El liderazgo en la empresa
 
 El líder de una organización es la persona que tiene la capacidad de repartir los beneficios y expulsar al resto.
 
@@ -159,7 +157,7 @@ En segundo lugar, hay otro tipo de organizaciones que sostienen el poder de la j
 
 Recordemos que la ganancia de la empresa es diferente de la ganancia del grupo financiero. La ganancia en una empresa es la parte del valor producido por la empresa que captura su líder. No estamos contando el retorno del capital como parte del valor que produjo la organización.
 
-# El sistema financiero
+## El sistema financiero
 
 Hay un problema de alineación de incentivos para fundar una nueva empresa.
 
@@ -251,7 +249,7 @@ La energía para fundar nuevas empresas que usen las tecnologías disruptivas su
 
 *Existen otras maneras de superar el valle de productividad para activar nuevas tecnologías. Por ejemplo, algunos países autoritarios se desarrollaron rápidamente porque cubrieron ese valle con coerción. Obligaron a algunos ciudadanos a superar el valle incluso cuando esto no fuera lo más conveniente en el corto plazo como forma de energía de activación. En el capítulo seis, estudiaremos fuentes alternativas al sistema financiero para conseguir la energía de activación necesaria para fundar redes nuevas.*
 
-## **Las economía de plataformas**
+## Las economía de plataformas
 
 Muchas plataformas digitales muestran los efectos acelerados de la disputa de redes.
 
@@ -289,7 +287,7 @@ Cuando Netflix, PayPal o Uber consiguieron posiciones monopólicas, dispararon s
 
 Lo que sucede en las plataformas digitales es una muestra pequeña de los problemas del avance en la disputa de redes. El perjuicio neto para la persona media cuando una red liderada aumenta su conformidad porque desplaza redes alternativas preexistentes es el problema central de la economía futura. En el epílogo observaremos otra instancia de este problema que es la disolución de redes de solidaridad entre personas pobres que resulta en una pérdida de capital social y un aumento de la vulnerabilidad de estas personas.
 
-## **Cápsides actuales, ecólisis futuras**
+## Cápsides actuales, ecólisis futuras
 
 Históricamente, las ecólisis mejoraron el nivel de vida de las personas. Liberaron a los cautivos y coincidieron con mejoras en la productividad y en el nivel de vida de la sociedad.
 
@@ -315,7 +313,7 @@ Hemos argumentado que el poder no depende de la propiedad sino del liderazgo. Po
 
 El desarrollo natural de la disputa de redes abolirá la propiedad privada, impondrá jornadas laborales flexibles e implementará un salario básico universal, pero concentrará el poder y empeorará el nivel de vida medio de la sociedad. Nuestra tarea es comprender el liderazgo y la colaboración humana para diseñar un futuro alternativo.
 
-# La extinción del dinero
+## La extinción del dinero
 
 Cuando analizamos el valor que genera una empresa, lo definimos tentativamente como el poder de compra del dinero que genera la organización.
 
@@ -341,7 +339,7 @@ De la misma manera, una vez que una organización alcance niveles de productivid
 
 Cuando una empresa sea capaz de ofrecer más valor que todas las restantes al desconectarse, se desconectará. Entonces la empresa desconectada adquirirá el monopolio absoluto rápidamente o las empresas restantes implementarán cápsides para evitar la fuga de sus seguidores. Cualquiera de las opciones es indeseable.
 
-# La extinción del sistema financiero
+## La extinción del sistema financiero
 
 Con el avance de la disputa de redes, el sistema financiero dejará de funcionar como ahora. 
 
@@ -357,7 +355,7 @@ En el primer caso, el sistema financiero se disolverá. En el segundo, lo que er
 
 **Con el avance de la disputa de redes, el sistema financiero perderá su carácter monetario y dará lugar a liderazgos productivos.**
 
-# Resumen del capítulo
+## Resumen del capítulo
 
 El mercado es un protocolo que coordina la producción y alinea los incentivos de las partes involucradas sin necesidad de liderazgo. Si las personas fuéramos perfectamente racionales, las partes involucradas seríamos los individuos y no crecería la desigualdad.
 
@@ -377,7 +375,7 @@ Con el avance de la disputa de redes, el sistema financiero perderá su carácte
 
 \[ Diagrama del resumen \]
 
-# Ejercicios
+## Ejercicios
 
 1 \- En este capítulo observamos que las curvas de productividad per cápita que usamos hasta ahora no distinguen entre tipos de trabajadores, y mencionamos que sería más adecuado modelar la productividad per cápita con un gráfico de más dimensiones. ¿Qué impacto tendría esta extensión sobre nuestra comprensión de la economía? ¿Te ayuda a explicar por qué hay personas que quedan excluidas del sistema?
 
@@ -388,6 +386,8 @@ Con el avance de la disputa de redes, el sistema financiero perderá su carácte
 4 \- ¿Podés construir un modelo del liderazgo en algún sector de la economía actual que sea capaz de predecir la evolución de los salarios y la ganancia empresarial a partir de cambios en la tecnología? 
 
 5 \- Cuando analizamos la disputa de redes en la economía de plataformas, usamos el supuesto implícito de que las personas eligen una plataforma para acceder a cada servicio. En la práctica, las personas pueden usar más de una red social, plataforma de mensajería instantánea o plataforma de reparto al mismo tiempo, entre otras. Sin embargo, como las personas tienen atención limitada, hay un número finito de plataformas que pueden usar en total al mismo tiempo. Extendé los modelos presentados hasta acá para considerar este fenómeno. ¿Llegás a las mismas conclusiones?
+
+### Notas
 
 [^1]:  Esto también se relaciona con que el mero uso de sus plataformas contribuye a mejorar la calidad de estos sistemas a través del proceso conocido como aprendizaje por refuerzos. Usar una plataforma de IA también permite entrenarla.
 
