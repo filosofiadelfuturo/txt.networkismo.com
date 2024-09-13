@@ -1,5 +1,5 @@
 ---
-title: Introducción
+title: 0 - Introducción
 slug: introduccion-psicologia
 abstract: Introducción a la psicología para redes.
 ---
