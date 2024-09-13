@@ -1,4 +1,8 @@
-# **Capítulo 3: el mercado**
+---
+title: 3 - El mercado
+slug: el-mercado
+abstract: Cómo funciona el sistema económico actual.
+---
 
 En el primer capítulo, estudiamos el mecanismo que subyace a las jerarquías económicas. En el segundo capítulo, vimos qué pasa con las jerarquías cuando la tecnología se desarrolla. Ahora aplicaremos estos conceptos para entender la economía actual.
 
