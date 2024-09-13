@@ -1,8 +1,7 @@
 ---
 title: Introducción
-slug: introduccion-economia
+slug: introduccion-iabadabadu
 abstract: Introducción a la economía para redes.
-withnum=part
 ---
 
 # Introducción

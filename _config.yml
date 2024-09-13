@@ -50,6 +50,8 @@ sidebar_nav_top:
 sidebar_nav_bottom:
 - label: Plan de trabajo
   url: /plan-de-trabajo
+- label: Cambios recientes
+  url: /changelog
 - label: Licencias
   url: /licencias
 
