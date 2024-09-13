@@ -1,4 +1,8 @@
-# **Capítulo 5: La revolución es una red**
+---
+title: 5 - La revolución es una red
+slug: revolucion-red
+abstract: Qué hay que hacer para cambiar al mundo.
+---
 
 Resolver la crisis de alineación de incentivos es la tarea más importante de la historia, y estamos en condiciones de llevarla a cabo. 
 
