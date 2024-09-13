@@ -1,5 +1,5 @@
 ---
-title: Introducción
+title: 0-Introducción
 slug: introduccion-economia
 abstract: Introducción a la economía para redes.
 ---
