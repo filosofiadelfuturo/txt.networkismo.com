@@ -1,4 +1,8 @@
-# Introducción
+---
+title: Introducción
+slug: introduccion-economia
+abstract: Introducción a la economía para redes.
+---
 
 Un fantasma recorre el mundo: el fantasma del pesimismo. 
 
