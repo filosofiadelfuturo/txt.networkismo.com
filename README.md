@@ -12,6 +12,10 @@ Cada obra aquí presentada se desarrolla en torno a un ámbito para el que consi
 
 Esperamos que estas lecturas te motiven a comprender, discutir y construir el paradigma de la red. Los compartiremos aquí a medida que completemos su redacción.
 
+**Redacción:** [Juan Fernández Zaragoza](https://www.instagram.com/juanozaragoza/)
+
+**Edición:** [Valentín Muro](https://twitter.com/valenzine)
+
 ## Plan de trabajo
 
 Las personas funcionamos en red. 
