@@ -3,6 +3,9 @@ title: 2 - La disputa de redes
 slug: la-disputa-de-redes
 abstract: Cómo el desarrollo tecnológico interactúa con las jerarquías y genera la historia de los sistemas económicos.
 ---
+
+<div class="last-modified-at">Publicación: 2024.09.14 — Última modificación: 2024.09.15</div>
+
 En el capítulo anterior, presentamos el liderazgo.
 
 Los individuos se agrupan bajo liderazgos porque esto alinea los incentivos para la colaboración. Los liderazgos son estables, lo que significa que los seguidores generalmente no intentarán sublevarse en tanto haya un problema de alineación de incentivos siempre que los líderes respeten el margen de obediencia.

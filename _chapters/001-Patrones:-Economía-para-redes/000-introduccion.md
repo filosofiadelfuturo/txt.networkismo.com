@@ -4,6 +4,8 @@ slug: introduccion-economia
 abstract: Introducción a la economía para redes.
 ---
 
+<div class="last-modified-at">Publicación: 2024.09.14 — Última modificación: 2024.09.15</div>
+
 Un fantasma recorre el mundo: el fantasma del pesimismo. 
 
 En el siglo XXI, la transformación social parece una utopía y las grandes narrativas parecen ingenuas.

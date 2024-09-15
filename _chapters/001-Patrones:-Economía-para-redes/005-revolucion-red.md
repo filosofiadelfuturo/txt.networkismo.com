@@ -4,6 +4,8 @@ slug: revolucion-red
 abstract: Qué hay que hacer para cambiar al mundo.
 ---
 
+<div class="last-modified-at">Publicación: 2024.09.14 — Última modificación: 2024.09.15</div>
+
 Resolver la crisis de alineación de incentivos es la tarea más importante de la historia, y estamos en condiciones de llevarla a cabo. 
 
 En la actualidad, la mayoría de las muertes se deben a enfermedades curables que nunca fueron tratadas. Además de eso, la desigualdad empeora la salud de los de abajo incluso después de controlar por el acceso a la salud y otros factores de riesgo asociados a la pobreza. Mitigar la desigualdad es el desafío de salud más importante, y la desigualdad económica es un subproducto del liderazgo como mecanismo de alineación.

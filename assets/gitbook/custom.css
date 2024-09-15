@@ -314,3 +314,11 @@
 .footnotes {
     font-size: 85%;
 }
+
+.last-modified-at {
+    font-size: 80%;
+    font-family: Arial, sans-serif;
+    color: #999;
+    margin: 1rem 0;
+    text-align: right;
+}   

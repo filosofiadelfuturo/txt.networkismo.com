@@ -3,6 +3,7 @@ title: 1 - Colaboración y liderazgo
 slug: colaboracion-y-liderazgo
 abstract: El liderazgo permite la colaboración a gran escala y origina las jerarquías y la desigualdad económica.
 ---
+<div class="last-modified-at">Publicación: 2024.09.14 — Última modificación: 2024.09.15</div>
 
 Desde que nació la civilización, los sistemas económicos tuvieron jerarquías y desigualdad.
 
@@ -431,7 +432,7 @@ En el próximo capítulo, aprovecharemos el modelo general que construimos sobre
 
 [^3]:  Adelantamos estos puntos en el capítulo 4
 
-[^4]:  {{ Incluso la escritura misma surgió … }}
+[^4]:  Incluso la escritura misma surgió, entre otras cosas, como una herramienta de contaduría.
 
 [^5]:  Analizaremos la relación entre el paradigma marxista y los experimentos socialistas del siglo XX en el capítulo 4\.
 

@@ -12,9 +12,10 @@ Cada obra aquí presentada se desarrolla en torno a un ámbito para el que consi
 
 Esperamos que estas lecturas te motiven a comprender, discutir y construir el paradigma de la red. Los compartiremos aquí a medida que completemos su redacción.
 
-**Redacción:** [Juan Fernández Zaragoza](https://www.instagram.com/juanozaragoza/)
+**Redacción:** [Juan Fernández Zaragoza](https://www.instagram.com/juanozaragoza/)<br>
+**Edición:** [Valentín Muro](https://valentinmuro.com)<br>
+**Coordinación y estrategia**: Juan Fernández Zaragoza y Valentín Muro
 
-**Edición:** [Valentín Muro](https://twitter.com/valenzine)
 
 ## Plan de trabajo
 
@@ -26,27 +27,31 @@ Si queremos intervenir el funcionamiento estructural de nuestra sociedad, debemo
 
 Estamos trabajando en seis cuadernos para exponer el paradigma de la red en diversas disciplinas.
 
-### Libro 1 - Patrones: Economía para redes
+### Libro 1. Patrones: Economía para redes ([leer libro](/introduccion-economia.html))
 
 A nivel económico, el principal mecanismo de alineación es el liderazgo, que alinea organizaciones grandes. El liderazgo rige las jerarquías económicas y la conducta económica de las sociedades. La economía networkista ayuda a tratar cuestiones económicas de nivel estructural, como la desigualdad y las revoluciones.
 
-### Libro 2 - Nodos: Psicología para redes
+**Descargar:** | EPUB | PDF
+
+(próximamente)
+
+### Libro 2. Nodos: Psicología para redes
 
 A nivel psicológico, el principal mecanismo de alineación son las emociones, que alinean comunidades pequeñas. Las emociones perciben la red social y rigen nuestra motivación y conducta social. La psicología networkista ayuda a tratar cuestiones emocionales de nivel estructural, como la violencia entre grupos sociales o las epidemias de ansiedad y depresión.
 
-### Libro 3 - Homo Cratis: Ética para redes
+### Libro 3. Homo Cratis: Ética para redes
 
 A nivel ético, considerar los mecanismos de alineación ayuda a que las propuestas éticas sean eficaces. El discurso crítico, argumentativo o de concientización impactan poco en el comportamiento social. Considerar los mecanismos que gobiernan nuestro comportamiento en red ayuda a que el discurso ético-político tenga potencial de impacto estructural.
 
-### Libro 4 - Matrix: El paradigma de la red
+### Libro 4. Matrix: El paradigma de la red
 
 Como cosmovisión, el enfoque networkista compatibiliza inquietudes asociadas a los paradigmas moderno y posmoderno, y ofrece conclusiones útiles para interpretar y transformar la sociedad actual. 
 
-### Libro 5 - El nexo: Los mitos y la red
+### Libro 5. El nexo: Los mitos y la red
 
 A nivel místico, religioso o pseudocientífico, muchas ideas tradicionales describen desde un enfoque mágico o animista verdades parciales sobre el funcionamiento de la red. El enfoque networkista permite considerar ideas rescatables del pensamiento místico sin abandonar el realismo.
 
-### Libro 6 - Sightware: Epistemología para redes
+### Libro 6. Sightware: Epistemología para redes
 
 A nivel epistemológico, el enfoque networkista trata los desafíos teóricos y metodológicos particulares de conocer y cuidar redes vivas. Definir rigurosamente la noción de “punto de vista” permite reinterpretar los conceptos de verdad, modelo, ontología, red y ruido. 
 

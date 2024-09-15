@@ -4,6 +4,8 @@ slug: el-networkismo
 abstract: Por qué la teoría del liderazgo es un mejor paradigma que la lucha de clases y la competencia perfecta.
 ---
 
+<div class="last-modified-at">Publicación: 2024.09.14 — Última modificación: 2024.09.15</div>
+
 La sociedad es grande. 
 
 A diferencia de las piedras o los animales, no la vemos con los ojos. Solo podemos captarla usando modelos.

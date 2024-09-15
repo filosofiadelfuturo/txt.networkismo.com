@@ -1,8 +1,8 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
 title: El paradigma de la red
-longtitle: El paradigma de la red
-author: Redacción - Juan Zaragoza. Edición - Valentín Muro.
+longtitle: "Cuadernos networkistas: el paradigma de la red"
+author: Filosofía del futuro
 email: juan@filosofiadelfuturo.com
 description: >
   Colección de cuadernos de filosofía networkista.
@@ -18,8 +18,8 @@ baseurl_canonical: https://txt.networkismo.com
 # Set a start_year to have the copyright render as "start_year - current_year" (if the years are different)
 # Set copyright: false to disable.
 copyright:
-  start_year: 2024
-  url: /book.html
+  start_year: 2018
+  url: /credits.html
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path: assets/gitbook/images/favicon.ico
@@ -52,8 +52,8 @@ sidebar_nav_bottom:
   url: /plan-de-trabajo
 - label: Cambios recientes
   url: /changelog
-- label: Licencias
-  url: /licencias
+- label: Créditos y agradecimientos
+  url: /creditos
 
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.

@@ -4,6 +4,8 @@ slug: el-mercado
 abstract: Cómo funciona el sistema económico actual.
 ---
 
+<div class="last-modified-at">Publicación: 2024.09.14 — Última modificación: 2024.09.15</div>
+
 En el primer capítulo, estudiamos el mecanismo que subyace a las jerarquías económicas. En el segundo capítulo, vimos qué pasa con las jerarquías cuando la tecnología se desarrolla. Ahora aplicaremos estos conceptos para entender la economía actual.
 
 Hasta ahora, hablamos de las jerarquías económicas en general, sin considerar conceptos concretos importantes para la economía actual. Por ejemplo, el mercado es un sistema de alineación de incentivos para la producción que funciona sin necesidad de un liderazgo central. En este capítulo, analizaremos el mercado y sus límites, veremos por qué surgen empresas lideradas en su interior, y estudiaremos el rol del sistema financiero, que permite alinear los incentivos de las personas para fundar nuevas empresas y aprovechar avances tecnológicos.

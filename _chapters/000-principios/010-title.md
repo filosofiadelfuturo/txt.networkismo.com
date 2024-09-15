@@ -81,7 +81,5 @@ Firmantes:
 - Luciano B. Schiavone. Física y filosofía.
 - Santiago Cisternas. Antropología e informática.
 
-{% include newsletter-signup.html %}
-
 
 
