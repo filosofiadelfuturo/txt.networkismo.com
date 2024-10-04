@@ -25,7 +25,13 @@ Nuestro funcionamiento en red obedece mecanismos de alineación, que son los mec
 
 Si queremos intervenir el funcionamiento estructural de nuestra sociedad, debemos estudiar las leyes sencillas que rigen nuestras redes.
 
-Estamos trabajando en seis cuadernos para exponer el paradigma de la red en diversas disciplinas.
+Estamos trabajando en cuadernos para exponer el paradigma de la red en diversas disciplinas.
+
+### La deforestación social: Cómo curar la red humana
+
+Introducción general al pensamiento social networkista. Presenta de manera introductoria algunas tesis centrales de los libros de economía y psicología para redes.
+
+**Descargar:** | [EPUB](/assets/ebooks/La_reforestacion_social.epub) | [PDF](/assets/ebooks/La_reforestacion_social.pdf)
 
 ### Libro 1. Patrones: Economía para redes ([leer libro](/introduccion-economia.html))
 
