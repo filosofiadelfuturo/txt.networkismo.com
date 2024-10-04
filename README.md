@@ -27,7 +27,7 @@ Si queremos intervenir el funcionamiento estructural de nuestra sociedad, debemo
 
 Estamos trabajando en cuadernos para exponer el paradigma de la red en diversas disciplinas.
 
-### La deforestación social: Cómo curar la red humana
+### Ensayo. La reforestación social: Cómo curar la red humana
 
 Introducción general al pensamiento social networkista. Presenta de manera introductoria algunas tesis centrales de los libros de economía y psicología para redes.
 
