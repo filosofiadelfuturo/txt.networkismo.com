@@ -31,13 +31,13 @@ Estamos trabajando en cuadernos para exponer el paradigma de la red en diversas 
 
 Introducción general al pensamiento social networkista. Presenta de manera introductoria algunas tesis centrales de los libros de economía y psicología para redes.
 
-**Descargar:** | [EPUB](/assets/ebooks/La_reforestacion_social.epub) | [PDF](/assets/ebooks/Patrones_Economia_para_redes.pdf)
+**Descargar:** | [EPUB](/assets/ebooks/La_reforestacion_social.epub) | [PDF](/assets/ebooks/La_reforestacion_social.pdf)
 
 ### Libro 1. Patrones: Economía para redes ([leer libro](/introduccion-economia.html))
 
 A nivel económico, el principal mecanismo de alineación es el liderazgo, que alinea organizaciones grandes. El liderazgo rige las jerarquías económicas y la conducta económica de las sociedades. La economía networkista ayuda a tratar cuestiones económicas de nivel estructural, como la desigualdad y las revoluciones.
 
-**Descargar:** | EPUB | [PDF](/assets/ebooks/La_reforestacion_social.pdf)
+**Descargar:** | EPUB | [PDF](/assets/ebooks/Patrones_Economia_para_redes.pdf)
 
 (próximamente)
 
