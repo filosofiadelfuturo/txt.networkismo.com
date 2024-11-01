@@ -39,7 +39,7 @@ A nivel económico, el principal mecanismo de alineación es el liderazgo, que a
 
 **Descargar:** | [EPUB](/assets/ebooks/patrones_v1.01.epub) | [PDF](/assets/ebooks/Patrones_Economia_para_redes.pdf)
 
-(próximamente)
+**Última actualización:** 2024.10.31 - Versión 1.01
 
 ### Libro 2. Nodos: Psicología para redes
 
