@@ -37,9 +37,10 @@ Introducción general al pensamiento social networkista. Presenta de manera intr
 
 A nivel económico, el principal mecanismo de alineación es el liderazgo, que alinea organizaciones grandes. El liderazgo rige las jerarquías económicas y la conducta económica de las sociedades. La economía networkista ayuda a tratar cuestiones económicas de nivel estructural, como la desigualdad y las revoluciones.
 
-**Descargar:** | [EPUB](/assets/ebooks/patrones_v1.01.epub) | [PDF](/assets/ebooks/Patrones_Economia_para_redes.pdf)
+**Descargar:** | [EPUB](/assets/ebooks/patrones_v1.02.epub) | [PDF](/assets/ebooks/Patrones_Economia_para_redes.pdf)
+**Comprar:** | [Amazon Kindle](https://www.amazon.com/gp/product/B0DLTLT1K3) | Google Play Books
 
-**Última actualización:** 2024.10.31 - Versión 1.01
+**Última actualización:** 2024.11.03 - Versión 1.02
 
 ### Libro 2. Nodos: Psicología para redes
 
