@@ -4,6 +4,11 @@ permalink: /changelog
 layout: page
 ---
 
+### 2024.11.08
+
+- Versión Google Play Books en EPUB disponible.
+
+
 ### 2024.11.03
 
 - Versión Amazon Kindle de *Patrones* en EPUB disponible.
