@@ -12,7 +12,7 @@ Quizás su cerebro funciona mal, pero yo empezaría por averiguar de qué color 
 
 Traducir esta idea a cómo funcionamos las personas reales es cambiar de paradigma, y de eso se trata este libro. 
 
-# Psiquiatras de un mundo nuevo
+## Psiquiatras de un mundo nuevo
 
 Tu paciente ve azul. Como psiquiatra responsable, no querés ser reduccionista, y asumir que alguien ve azul porque tiene algo azul enfrente podría resultar reduccionista.
 
@@ -60,7 +60,7 @@ Estos patrones serán la pista para comprender la epidemia de malestar emocional
 
 Para ello, haremos generalizaciones útiles para entender un problema general. Desde este marco, estudiaremos las emociones en el nivel de la red humana, y adoptaremos un enfoque psicológico desde el paradigma de la red.
 
-# El paradigma de la red
+## El paradigma de la red
 
 La humanidad es una red viva, y entender redes vivas requiere simplificar la comprensión de sus partes.
 
