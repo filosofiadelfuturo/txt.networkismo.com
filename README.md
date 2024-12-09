@@ -33,7 +33,7 @@ Introducción general al pensamiento social networkista. Presenta de manera intr
 
 **Descargar:** | [EPUB](/assets/ebooks/La_reforestacion_social.epub) | [PDF](/assets/ebooks/La_reforestacion_social.pdf)
 
-### Libro 1. Patrones: Economía para redes ([leer libro](/introduccion-economia.html))
+### Libro 1. Patrones: Economía para redes ([leer online](/introduccion-economia.html))
 
 A nivel económico, el principal mecanismo de alineación es el liderazgo, que alinea organizaciones grandes. El liderazgo rige las jerarquías económicas y la conducta económica de las sociedades. La economía networkista ayuda a tratar cuestiones económicas de nivel estructural, como la desigualdad y las revoluciones.
 
@@ -42,7 +42,7 @@ A nivel económico, el principal mecanismo de alineación es el liderazgo, que a
 
 **Última actualización:** 2024.11.03 - Versión 1.02
 
-### Libro 2. Nodos: Psicología para redes
+### Libro 2. Nodos: Psicología para redes ([leer online](/reduccionismo-necesario.html))
 
 A nivel psicológico, el principal mecanismo de alineación son las emociones, que alinean comunidades pequeñas. Las emociones perciben la red social y rigen nuestra motivación y conducta social. La psicología networkista ayuda a tratar cuestiones emocionales de nivel estructural, como la violencia entre grupos sociales o las epidemias de ansiedad y depresión.
 
