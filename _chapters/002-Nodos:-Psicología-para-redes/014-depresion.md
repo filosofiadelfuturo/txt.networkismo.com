@@ -1,5 +1,5 @@
 ---
-title: 5 - La depreisón
+title: 5 - La depresión
 slug: depresion
 abstract: Funcionamiento en red y distorsiones de la depresión.
 ---
