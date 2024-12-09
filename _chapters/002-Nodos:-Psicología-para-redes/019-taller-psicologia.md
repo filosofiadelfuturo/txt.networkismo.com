@@ -1,7 +1,7 @@
 ---
-title: 0 - Introducción
-slug: introduccion-psicologia
-abstract: Introducción a la psicología para redes.
+title: Apéndice - Taller de psicología
+slug: taller-psicologia
+abstract: Taller introductorio a la psicología para redes.
 ---
 
 Este libro está en proceso, lo compartiremos en las próximas semanas. A continuación te dejamos disponibles las primeras cuatro clases del taller intensivo de psicología para redes que fue dictado el 20 de junio de 2024.
