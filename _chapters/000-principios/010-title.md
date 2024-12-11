@@ -1,5 +1,5 @@
 ---
-slug: principios
+slug: treinta-principios
 title: Treinta principios networkistas
 ---
 
