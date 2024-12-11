@@ -22,7 +22,7 @@ copyright:
   url: /credits.html
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path: assets/gitbook/images/favicon.ico
+favicon_path: assets/gitbook/images/favicon_filofut.png
 
 # Google Analytics
 google_analytics: G-3XLP02NSCK
